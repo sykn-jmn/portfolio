@@ -1,21 +1,18 @@
 const DATA = [
   {
-    title: "Share.do",
+    title: "Loop Game Copy",
     thumbnail: "images/snapshots/share-do-thumb.png",
-    image: "images/snapshots/share-do.png",
-    captions: ["Side Project", "Full Stack Dev", "2020"],
+    image: "images/snapshots/Loop Game.png",
+    captions: ["Side Project", "2020"],
     description:
-      "Share-do is a mobile app that allows you share your schedules with your team (Family, Friends, Classmates, etc)",
+      "Loop Game Copy is a my own implementation of the Android game Infinite Loop.",
     tags: [
-      "ReactNative",
-      "ExpressJs",
-      "Firebase",
-      "PostgreSQL",
-      "AWS DynamoDB",
-      "Typescript",
-      "GraphQL",
+      "Java",
+      "JFrame",
+      "Object-Oriented Programming",
+      "Github",
     ],
-    sourceCode: "https://github.com/usmansbk/share-do-landing",
+    sourceCode: "https://github.com/sykn-jmn/Loop-Game-Copy",
     liveLink: "https://serene-mirzakhani-2aa3ef.netlify.app/",
   },
   {
