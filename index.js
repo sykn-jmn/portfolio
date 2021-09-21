@@ -17,8 +17,8 @@ const DATA = [
   },
   {
     title: "Maze Runer",
-    thumbnail: "images/snapshots/trello.png",
-    image: "images/snapshots/trello.png",
+    thumbnail: "images/snapshots/Maze Runner.png",
+    image: "images/snapshots/Maze Runner.png",
     captions: ["Side Project", "2020"],
     description:
       "A Website that generates and solves a Maze using the Depth-First Search Algorithm",
