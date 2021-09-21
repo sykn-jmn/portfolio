@@ -220,6 +220,43 @@
             If you are interested in recruiting me or even
             collaborating with me, send me an email.
           </p>
+          <form
+            id="contact-form"
+            action="https://formspree.io/f/xdoygqql"
+            method="POST"
+          >
+            <input
+              type="text"
+              name="user_name"
+              id="user_name"
+              placeholder="Type your name"
+              class="text-field"
+              maxlength="30"
+              required
+            />
+            <input
+              type="email"
+              name="user_email"
+              id="user_email"
+              placeholder="Type your email"
+              class="text-field"
+              required
+            />
+            <textarea
+              name="message"
+              id="message"
+              rows="8"
+              placeholder="Write your message"
+              class="text-field"
+              maxlength="500"
+              required
+            ></textarea>
+            <small id="helper-text" class="color-n0"></small>
+            <div class="action-button">
+              <button type="submit" class="button">Get In Touch</button>
+              <button type="reset" class="button">Reset</button>
+            </div>
+          </form>
         </section>
       </footer>
     </div>
