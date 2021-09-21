@@ -24,7 +24,7 @@ const DATA = [
       "A Website that generates and solves a Maze using the Depth-First Search Algorithm",
     tags: ["JavaScript", "BootStrap", "HTML"],
     sourceCode: "https://github.com/sykn-jmn/Maze_Runner",
-    liveLink: "sykn-jmn.github.io/maze_runner/",
+    liveLink: "https://sykn-jmn.github.io/Maze_Runner/",
   },
   {
     title: "My Reads",
