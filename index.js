@@ -1,7 +1,7 @@
 const DATA = [
   {
     title: "Loop Game Copy",
-    thumbnail: "images/snapshots/share-do-thumb.png",
+    thumbnail: "images/snapshots/Loop Game.png",
     image: "images/snapshots/Loop Game.png",
     captions: ["Side Project", "2020"],
     description:
