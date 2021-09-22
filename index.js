@@ -27,15 +27,15 @@ const DATA = [
     liveLink: "https://sykn-jmn.github.io/Maze_Runner/",
   },
   {
-    title: "My Reads",
-    thumbnail: "images/snapshots/my-reads-thumb.png",
-    image: "images/snapshots/my-reads.png",
-    captions: ["Udacity", "Frontend", "2020"],
+    title: "Image To ASCII Art",
+    thumbnail: "images/snapshots/Image To Ascii Art.png",
+    image: "images/snapshots/Image To Ascii Art.png",
+    captions: ["Webcam", "Side Project", "2020", "ASCII Art","3rd Party Library","Image Processing"],
     description:
-      "My Reads is a bookshelf app that allows you to organize your books. It has an easily searchable database for you to find new books.",
-    tags: ["React", "Redux", "REST"],
-    sourceCode: "https://github.com/usmansbk/reactnd-project-myreads-starter",
-    liveLink: "https://compassionate-clarke-059d4c.netlify.app/",
+      "Intrigued by ASCII Art, I made a program that inputs the camera frames and outputs an ASCII art based on average lightness of pixels",
+    tags: ["Java", "JFrame", "Webcam Capture by Sarxos"],
+    sourceCode: "https://github.com/sykn-jmn/Webcam_To_ASCII-Art",
+    liveLink: "https://user-images.githubusercontent.com/56058545/133916833-e04136be-e261-41a3-b500-f51ff05e4523.mp4",
   },
   {
     title: "Would You Rather",
