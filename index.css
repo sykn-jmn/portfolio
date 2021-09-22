@@ -401,8 +401,8 @@ p {
   align-items: center;
   background-color: #f7f7f9;
   border-radius: 8px;
-  margin: 4px 0;
-  padding: 4px 6px;
+  margin: 2px 2px;
+  padding: 2px 2px;
 }
 
 .list-header {
