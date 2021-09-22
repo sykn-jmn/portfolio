@@ -16,17 +16,6 @@ const DATA = [
     liveLink: "",
   },
   {
-    title: "Maze Runer",
-    thumbnail: "images/snapshots/Maze Runner.png",
-    image: "images/snapshots/Maze Runner.png",
-    captions: ["Side Project", "2020"],
-    description:
-      "A Website that generates and solves a Maze using the Depth-First Search Algorithm",
-    tags: ["JavaScript", "BootStrap", "HTML"],
-    sourceCode: "https://github.com/sykn-jmn/Maze_Runner",
-    liveLink: "https://sykn-jmn.github.io/Maze_Runner/",
-  },
-  {
     title: "Image To ASCII Art",
     thumbnail: "images/snapshots/Image To Ascii Art.png",
     image: "images/snapshots/Image To Ascii Art.png",
@@ -49,15 +38,26 @@ const DATA = [
     liveLink: "https://github.com/sykn-jmn/UNO",
   },
   {
-    title: "Flappy Bird",
-    thumbnail: "images/snapshots/flappybird.png",
-    image: "images/snapshots/flappybird.png",
-    captions: ["MintBean", "Game Dev", "2021"],
+    title: "Polar Equation Grapher",
+    thumbnail: "images/snapshots/Polar Grapher.png",
+    image: "images/snapshots/Polar Grapher.png",
+    captions: ["Polar Coordinates", "Side Project", "2019"],
     description:
-      "Flappy Bird is an arcade-style game in which you control the bird Faby, which moves persistently to the right.",
-    tags: ["Phaser3", "javaScript"],
-    sourceCode: "https://github.com/usmansbk/flappy-bird",
-    liveLink: "https://blissful-wiles-7bf90a.netlify.app/",
+      "Being both interested in programming and calculus, I made a program based on the topic that we were currently on",
+    tags: ["Python", "Turtle"],
+    sourceCode: "https://github.com/sykn-jmn/polarCoordinateGraph",
+    liveLink: "https://github.com/sykn-jmn/polarCoordinateGraph",
+  },
+  {
+    title: "Maze Runer",
+    thumbnail: "images/snapshots/Maze Runner.png",
+    image: "images/snapshots/Maze Runner.png",
+    captions: ["Depth-First Search", "Side Project", "2020"],
+    description:
+      "A Website that generates and solves a Maze using the Depth-First Search Algorithm",
+    tags: ["JavaScript", "BootStrap", "HTML"],
+    sourceCode: "https://github.com/sykn-jmn/Maze_Runner",
+    liveLink: "https://sykn-jmn.github.io/Maze_Runner/",
   },
 ];
 
