@@ -3,9 +3,9 @@ const DATA = [
     title: "Loop Game Copy",
     thumbnail: "images/snapshots/Loop Game.png",
     image: "images/snapshots/Loop Game.png",
-    captions: ["Side Project", "2020"],
+    captions: ["Side Project", "2021"],
     description:
-      "Loop Game Copy is a my own implementation of the Android game Infinite Loop.",
+      "Loop Game Copy is a my own implementation of the Android game Infinite Loop. I made this with the final goal of making a Neural Network Powered level maker that inputs a drawing and outputs a level. This has not been implemented yet but it will be soon.",
     tags: [
       "Java",
       "JFrame",
@@ -21,7 +21,7 @@ const DATA = [
     image: "images/snapshots/Image To Ascii Art.png",
     captions: ["Webcam", "Side Project", "2020", "ASCII Art","3rd Party Library","Image Processing"],
     description:
-      "Intrigued by ASCII Art, I made a program that inputs the camera frames and outputs an ASCII art based on average lightness of pixels",
+      "Intrigued by ASCII Art, I made a program that inputs the camera frames and outputs an ASCII art based on average lightness of pixels. Something new that I wanted to learn and actually learned in making this was the way for a Java Program to access the Camera.",
     tags: ["Java", "JFrame", "Webcam Capture by Sarxos"],
     sourceCode: "https://github.com/sykn-jmn/Webcam_To_ASCII-Art",
     liveLink: "https://user-images.githubusercontent.com/56058545/133916833-e04136be-e261-41a3-b500-f51ff05e4523.mp4",
@@ -32,7 +32,7 @@ const DATA = [
     image: "images/snapshots/UNO.png",
     captions: ["Card Game", "Side Project", "2019"],
     description:
-      'Beginning to explore python, I wanted to do a project that includes some form of graphics. Thus UNO',
+      'When I was beginning to explore python, I wanted to do a project that includes some form of graphics. Thus I created UNO. Challenges I faced when making this was the fact that Turtle Graphics works in a very different way compared to Java\'s Graphics',
     tags: ["Python", "Turtle"],
     sourceCode: "https://github.com/sykn-jmn/UNO",
     liveLink: "https://github.com/sykn-jmn/UNO",
@@ -43,7 +43,7 @@ const DATA = [
     image: "images/snapshots/Polar Grapher.png",
     captions: ["Polar Coordinates", "Side Project", "2019"],
     description:
-      "Being both interested in programming and calculus, I made a program based on the topic that we were currently on",
+      "Being both interested in programming and calculus, I made a program based on the topic that we were currently on when I made this which was Polar Equations. Given the nature of Python Turtle\'s graphics, this project became a lot easier compared to if I implemented it in Java",
     tags: ["Python", "Turtle"],
     sourceCode: "https://github.com/sykn-jmn/polarCoordinateGraph",
     liveLink: "https://github.com/sykn-jmn/polarCoordinateGraph",
@@ -54,7 +54,7 @@ const DATA = [
     image: "images/snapshots/Maze Runner.png",
     captions: ["Depth-First Search", "Side Project", "2020"],
     description:
-      "A Website that generates and solves a Maze using the Depth-First Search Algorithm",
+      "A Website that generates and solves a Maze using the Depth-First Search Algorithm. I thought of making this while watching a Maze Creating Algorithm on Youtube. Halfway through the video, I was inspired to make it so I stopped watching and started making",
     tags: ["JavaScript", "BootStrap", "HTML"],
     sourceCode: "https://github.com/sykn-jmn/Maze_Runner",
     liveLink: "https://sykn-jmn.github.io/Maze_Runner/",
