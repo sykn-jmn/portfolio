@@ -38,15 +38,15 @@ const DATA = [
     liveLink: "https://user-images.githubusercontent.com/56058545/133916833-e04136be-e261-41a3-b500-f51ff05e4523.mp4",
   },
   {
-    title: "Would You Rather",
-    thumbnail: "images/snapshots/would-you-rather-thumb.png",
-    image: "images/snapshots/would-you-rather.png",
-    captions: ["Udacity", "Frontend", "2020"],
+    title: "UNO",
+    thumbnail: "images/snapshots/UNO.png",
+    image: "images/snapshots/UNO.png",
+    captions: ["Card Game", "Side Project", "2019"],
     description:
-      'A variation of "Would You Rather?" game. The game provides the user with two choices, and the user has to decide whether to choose option A or option B.',
-    tags: ["React", "Redux"],
-    sourceCode: "https://github.com/usmansbk/would-you-rather",
-    liveLink: "https://elastic-rosalind-64ba5a.netlify.app/",
+      'Beginning to explore python, I wanted to do a project that includes some form of graphics. Thus UNO',
+    tags: ["Python", "Turtle"],
+    sourceCode: "https://github.com/sykn-jmn/UNO",
+    liveLink: "https://github.com/sykn-jmn/UNO",
   },
   {
     title: "Flappy Bird",
