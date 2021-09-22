@@ -204,7 +204,7 @@ function createModal(project) {
     children: [
       Button({
         type: "link",
-        text: "See live",
+        text: "See Demo",
         icon: "link",
         href: project.liveLink,
       }),
