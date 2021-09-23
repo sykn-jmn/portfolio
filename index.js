@@ -13,7 +13,7 @@ const DATA = [
       "Github",
     ],
     sourceCode: "https://github.com/sykn-jmn/Loop-Game-Copy",
-    liveLink: "",
+    liveLink: "https://github.com/sykn-jmn/Loop-Game-Copy",
   },
   {
     title: "Webcam To ASCII Art",
