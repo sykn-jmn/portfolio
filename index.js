@@ -2,7 +2,7 @@ const DATA = [
   {
     title: "Loop Game Copy",
     thumbnail: "images/snapshots/Loop Game.png",
-    image: "images/snapshots/Loop Game.png",
+    image: "images/snapshots/Loop Game Copy Main.png",
     captions: ["Side Project", "2021"],
     description:
       "Loop Game Copy is a my own implementation of the Android game Infinite Loop. I made this with the final goal of making a Neural Network Powered level maker that inputs a drawing and outputs a level. This has not been implemented yet but it will be soon.",
