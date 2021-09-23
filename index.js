@@ -16,7 +16,7 @@ const DATA = [
     liveLink: "",
   },
   {
-    title: "Image To ASCII Art",
+    title: "Webcam To ASCII Art",
     thumbnail: "images/snapshots/Image To Ascii Art.png",
     image: "images/snapshots/Image To Ascii Art.png",
     captions: ["Webcam", "Side Project", "2020", "ASCII Art","3rd Party Library","Image Processing"],
